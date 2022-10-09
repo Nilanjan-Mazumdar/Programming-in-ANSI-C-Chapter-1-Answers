@@ -1,4 +1,3 @@
-// Write a program to display the following simple arithmatic calculator
 #include<stdio.h>
 int main()
 {

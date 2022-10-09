@@ -1,5 +1,3 @@
-/* Write a program to displat the equation oa line in the form ax + by = c for a = 5, b = 8 and c = 18 */
-
 #include <stdio.h>
 int main()
 {

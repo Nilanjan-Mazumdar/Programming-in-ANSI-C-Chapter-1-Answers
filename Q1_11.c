@@ -1,5 +1,3 @@
-// Compute the area of triangle using A = sqrt of S(S-a)(S-b)(S-c) where a, b and c are sides of triangle and 2S
-// = a + b + c. Write a program ot comput the area of the triangle given the values of a, b and c.
 #include<stdio.h>
 #include<math.h>
 int main()
